@@ -15,7 +15,7 @@ body{
     top: 50%;
     left: 50%;
     transform: translate(-50%,-50%);
-    background: #fff;
+    background: #cfcccc;
     border-radius: 12px;
     opacity: 0.95;
 }
